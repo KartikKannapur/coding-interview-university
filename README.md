@@ -262,6 +262,13 @@ Read more about choices:
 
 You'll see some C, C++, and Python learning included below, because I'm learning. There are a few books involved, see the bottom.
 
+Python Language Resources:
+
+- [ ] [Statistics for Hackers (video)](https://www.youtube.com/watch?v=Iq9DzN6mvYA)
+- [ ] [Faster Python (video)](https://www.youtube.com/watch?v=JDSGVvMwNM8)
+- [ ] [10 Tips for Pythonic Code (video)](https://www.youtube.com/watch?v=_O23jIXsshs)
+- [x] [Beyond PEP 8 -- Best practices for beautiful intelligible code (video)](https://www.youtube.com/watch?v=wf-BqAjZb8M)
+
 ## Book List
 
 This is a shorter list than what I used. This is abbreviated to save you time.
