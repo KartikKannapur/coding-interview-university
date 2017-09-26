@@ -380,10 +380,10 @@ OR:
         - [Solutions](http://blog.panictank.net/category/algorithmndesignmanualsolutions/page/2/)
     - [Errata](http://www3.cs.stonybrook.edu/~skiena/algorist/book/errata)
 
-- [ ] [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)
-    - **Important:** Reading this book will only have limited value. This book is a great review of algorithms and data structures, but won't teach you how to write good code. You have to be able to code a decent solution efficiently.
-    - Half.com is a great resource for textbooks at good prices.
-    - aka CLR, sometimes CLRS, because Stein was late to the game
+- ~~[ ] [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)~~
+    ~~- **Important:** Reading this book will only have limited value. This book is a great review of algorithms and data structures, but won't teach you how to write good code. You have to be able to code a decent solution efficiently.~~
+    ~~- Half.com is a great resource for textbooks at good prices.~~
+    ~~- aka CLR, sometimes CLRS, because Stein was late to the game~~
 
 - [ ] [Programming Pearls](http://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880)
     - The first couple of chapters present clever solutions to programming problems (some very old using data tape) but
@@ -500,7 +500,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 - [ ] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
 - [ ] [Big O Notations (general quick tutorial) (video)](https://www.youtube.com/watch?v=V6mKVRU1evU)
 - [ ] [Big O Notation (and Omega and Theta) - best mathematical explanation (video)](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
-- [ ] Skiena:
+- [x] Skiena:
     - [video](https://www.youtube.com/watch?v=gSyDMtdPNpU&index=2&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b)
     - [slides](http://www3.cs.stonybrook.edu/~algorith/video-lectures/2007/lecture2.pdf)
 - [ ] [A Gentle Introduction to Algorithm Complexity Analysis](http://discrete.gr/complexity/)
